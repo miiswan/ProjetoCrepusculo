@@ -1,0 +1,30 @@
+.descricaobella{
+    color: #38678B;
+    text-align: auto;
+}
+.bella{
+    background-color: black;
+    width: auto;
+    text-align: left;
+  }
+
+.body{
+    background-color:  #000000;
+}
+.container{
+  background-color: black;
+  width: auto;
+  text-align: center;
+}
+.nav{
+    background-color: black;
+}
+.nav-item{
+    color: #38678B;
+    padding: auto;
+    font-weight: bold;
+    text-decoration: none;
+}
+.div{
+    background-color: #000000;
+}
