@@ -1,11 +1,22 @@
-.descricaobella{
-    color: #38678B;
-    text-align: auto;
-}
-.bella{
+.edward{
     background-color: black;
     width: auto;
-    text-align: left;
+    text-align: center;
+   
+}
+.descricaoedward{
+    color: #38678B;
+    text-align: center;
+}
+.descricaobella{
+    color: #38678B;
+    text-align: center;
+}
+.bella{
+
+        background-color: black;
+        width: auto;
+        text-align: center;
   }
 
 .body{
